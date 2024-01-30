@@ -1,16 +1,43 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=385440&height=200&section=header&text=Jason's%20Github&fontColor=4A815A" />
 
-<!--
-**Jason-Kwonn/Jason-Kwonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJason-Kwonn&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Here are some ideas to get you started:
+<div align="left">
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=Jason-Kwonn&show_icons=true">-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+### Introduction
+- 안녕하세요. 매일 1% 성장하는 개발자 권순재입니다.
+- 저는 새로운 것에 도전하고 적응하는 것을 즐기며, 다양한 경험이 스스로를 더 성장 시킨다고 믿습니다.
+- 언어와 분야(Frontend, Backend) 에 얽메이지 않는 개발 실력을 갖추기 위해 매일 정진하고 있습니다.
+
+<br/><hr/>
+
+### Experience & Projects
+#### (2023.06 - 2024.01) 네이버클라우드 데브옵스 2기 수료
+#### (2023.11 - 2023.12) <a href="https://github.com/Jason-Kwonn/nadeuli">Project Nadeuli</a>
+
+<br/><hr/>
+
+### Skills
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  
+
+<br/><hr/>
+
+<!-- ### Contact
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<br/>
+jasonproject628@gmail.com
+
+<br/><hr/>
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-Kwonn&layout=compact)](https://github.com/Jason-Kwonn/github-readme-stats)
+
+</div>
+
+
