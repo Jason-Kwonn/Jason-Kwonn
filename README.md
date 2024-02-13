@@ -16,6 +16,7 @@
 ### Experience & Projects
 #### (2023.06 - 2024.01) 네이버클라우드 데브옵스 2기 수료
 #### (2023.11 - 2023.12) <a href="https://github.com/Jason-Kwonn/nadeuli">Project Nadeuli</a>
+#### (2024.02 - ) <a href="https://github.com/Jason-Kwonn/pocketlist_back_java">Pocket List Backend(개발 중)</a>
 
 <br/><hr/>
 
