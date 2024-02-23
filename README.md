@@ -10,12 +10,15 @@
 - 안녕하세요. 매일 1% 성장하는 개발자 권순재입니다.
 - 저는 새로운 것에 도전하고 적응하는 것을 즐기며, 다양한 경험이 스스로를 더 성장 시킨다고 믿습니다.
 - 언어와 분야에 얽메이지 않는 개발 실력을 갖추기 위해 매일 정진하고 있습니다.
+- Bootstraping 방식으로 개발 제품들과 Indie hacker 에 관심이 많습니다.
+- 맹목적인 프로젝트가 아닌 niche 를 발견해서 작더라도 누군가에게 필요한 문제를 해결해 줄 수 있는 개발자가 되고 싶습니다.
 
 <br/><hr/>
 
 ### Experience & Projects
 #### (2023.06 - 2024.01) 네이버클라우드 데브옵스 2기 수료
-#### (2023.11 - 2023.12) <a href="https://github.com/Jason-Kwonn/nadeuli">Project Nadeuli</a>
+#### (2023.11 - 2023.12) <a href="https://github.com/Jason-Kwonn/nadeuli">동네 기반 커뮤니티 플랫폼: mobile web</a>
+#### (2024.02 - ) <a href="">생성형 Ai(LLM, Image generator) 기반 MVP</a>
 
 <br/><hr/>
 
