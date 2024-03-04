@@ -15,7 +15,7 @@
 
 <br/>
 
-- Hello, I'm Soonjae Kwon, a developer growing by 1% every day.
+- Hello, I'm Jason Kwon, a developer growing by 1% every day.
 - I enjoy challenging and adapting to new things, believing that diverse experiences foster my growth.
 - I strive daily to acquire development skills not confined to any specific language or field.
 - I have a keen interest in bootstraping methods and indie hacking.
