@@ -13,12 +13,26 @@
 - Bootstraping 방식 제품들과 Indie hacker 에 관심이 많습니다.
 - 맹목적인 프로젝트가 아닌 niche 를 발견해서 작더라도 누군가에게 필요한 문제를 해결해 줄 수 있는 개발자가 되고 싶습니다.
 
+<br/>
+
+- Hello, I'm Soonjae Kwon, a developer growing by 1% every day.
+- I enjoy challenging and adapting to new things, believing that diverse experiences foster my growth.
+- I strive daily to acquire development skills not confined to any specific language or field.
+- I have a keen interest in bootstraping methods and indie hacking.
+- I aspire to be a developer who discovers niches and solves problems for someone, even if on a small scale, rather than engaging in aimless projects.
+
 <br/><hr/>
 
 ### Experience & Projects
 #### (2023.06 - 2024.01) 네이버클라우드 데브옵스 2기 수료
 #### (2023.11 - 2023.12) <a href="https://github.com/Jason-Kwonn/nadeuli">동네 기반 커뮤니티 플랫폼</a>
 #### (2024.02 - ) 생성형 Ai(LLM, Image generator) 기반 MVP
+
+<br/>
+
+#### (Jun 2023 - Jan 2024) Completed Naver Cloud DevOps 2nd Generation
+#### (Nov 2023 - Dec 2023) <a href="https://github.com/Jason-Kwonn/nadeuli">Neighborhood-based Community Platform</a>
+#### (Feb 2024 - ) MVP based on Generative AI (LLM, Image Generator)
 
 <br/><hr/>
 
