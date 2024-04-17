@@ -26,13 +26,13 @@
 ### Experience & Projects
 #### (2023.06 - 2024.01) 네이버클라우드 데브옵스 2기 수료
 #### (2023.11 - 2023.12) <a href="https://github.com/Jason-Kwonn/nadeuli">동네 기반 커뮤니티 플랫폼</a>
-#### (2024.02 - ) 생성형 Ai(LLM, Image generator) 기반 MVP
+
 
 <br/>
 
 #### (Jun 2023 - Jan 2024) Completed Naver Cloud DevOps 2nd Generation
 #### (Nov 2023 - Dec 2023) <a href="https://github.com/Jason-Kwonn/nadeuli">Neighborhood-based Community Platform</a>
-#### (Feb 2024 - ) MVP based on Generative AI (LLM, Image Generator)
+
 
 <br/><hr/>
 
