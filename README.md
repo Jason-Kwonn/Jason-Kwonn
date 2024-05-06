@@ -5,14 +5,6 @@
 <div align="left">
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=Jason-Kwonn&show_icons=true">-->
 
-
-### Introduction
-- 안녕하세요. 매일 1% 성장하는 개발자 권순재입니다.
-
-<br/>
-
-- Hello, I'm Jason Kwon, a developer growing by 1% every day.
-
 <br/><hr/>
 
 ### Experience & Projects
